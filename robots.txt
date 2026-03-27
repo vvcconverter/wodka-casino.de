@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wodka-casino.de/sitemap.xml
+
